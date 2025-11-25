@@ -12,10 +12,12 @@
     "@clerk/nextjs": "^6.35.2",
     "@clerk/themes": "^2.4.37",
     "@prisma/client": "^6.19.0",
+    "chart.js": "^4.5.1",
     "dotenv": "^17.2.3",
     "next": "16.0.3",
     "openai": "^6.9.1",
     "react": "19.2.0",
+    "react-chartjs-2": "^5.3.1",
     "react-dom": "19.2.0"
   },
   "devDependencies": {
